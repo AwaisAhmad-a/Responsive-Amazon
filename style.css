@@ -166,7 +166,7 @@ font-size: 30px;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    background-color: #e4defa;
+    background-color: #9db2ff;
 }
 .box{
     height:400px ;
@@ -336,11 +336,11 @@ ul a:hover{
 
 @media screen and (max-width:470px){
     .hero-section img{
-        height: 27vw;
+        height: 32vw;
     } 
      .hero-section{
         /* background-image: url("header.png"); */
-        height: 27vw;
+        height: 31vw;
     }
     .navbar{
         display: flex;
