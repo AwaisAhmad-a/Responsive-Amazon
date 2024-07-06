@@ -334,7 +334,7 @@ ul a:hover{
 
 
 
-@media screen and (max-width:430px){
+@media screen and (max-width:470px){
     .hero-section img{
         height: 27vw;
     } 
@@ -457,7 +457,7 @@ span {
 }
 .box {
     height: 215px;
-    width: 189px;
+    width: 152px;
     background-color: white;
     padding: 20px 0px 15px;
     margin-top: 15px;
